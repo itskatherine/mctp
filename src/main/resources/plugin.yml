@@ -1,0 +1,11 @@
+name: mctp
+
+main: com.katherine.mctp.Main
+
+description: Multiple Choice Teleport
+
+version: '0.0.1'
+
+author: Katherine
+
+api: ['1.0.12']

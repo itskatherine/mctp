@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mctp:jar">
+    <output-path>$USER_HOME$/OneDrive/Desktop/Nukkit server/plugins</output-path>
+    <root id="archive" name="mctp.jar">
+      <element id="module-output" name="mctp" />
+    </root>
+  </artifact>
+</component>
